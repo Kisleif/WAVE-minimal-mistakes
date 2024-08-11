@@ -1,0 +1,12 @@
+global:
+  tagline: Deutsch
+  about: About
+  twitter: Twitter
+  github: GitHub
+langs:
+  de: Deutsch
+  en: English
+pages:
+  wave: wave
+titles:
+  pagination: Paginierung
