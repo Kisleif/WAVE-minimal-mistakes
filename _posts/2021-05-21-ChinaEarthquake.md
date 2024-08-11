@@ -1,10 +1,8 @@
 ---
-lang: en
 title: "M7.4 Earthquake in China"
 categories:
   - news
   - results
-  - english
 tags:
   - earthquake
 last_modified_at: 2021-05-21T23:25:52-05:00
