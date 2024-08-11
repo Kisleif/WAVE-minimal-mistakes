@@ -17,11 +17,9 @@ minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark"
 # Site Settings
 languages: ["en", "de"]
 default_lang: "en"
-exclude_from_localization: ["assets/css", "assets/img"]
-parallel_localization: true
+exclude_from_localization: ["assets/css", "assets/images"]
+default_locale_in_subfolder: true
 
-sass:
-  sourcemap: never
 
 lang_vars: ["locale"]
 parallel_localization: true
