@@ -1,5 +1,5 @@
 ---
-permalink: /science/
+permalink: /science_de/
 title: Science
 lang: de
 header:
