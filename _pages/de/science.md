@@ -1,7 +1,7 @@
 ---
 permalink: /science/
 title: Science
-land: de
+lang: de
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
