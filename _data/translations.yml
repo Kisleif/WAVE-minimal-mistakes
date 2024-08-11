@@ -1,0 +1,12 @@
+en:
+  global:
+    tagline: "Your tagline here"
+    about: "About Us"
+    twitter: "Twitter"
+    github: "GitHub"
+de:
+  global:
+    tagline: "Ihr Slogan hier"
+    about: "Über uns"
+    twitter: "Twitter"
+    github: "GitHub"
