@@ -253,7 +253,7 @@ pagination:
     after: 2
     
 languages: ["en", "de"]
-
+exclude_from_localizations: ["javascript", "images", "css"]
 
 # Plugins (previously gems:)
 plugins:
