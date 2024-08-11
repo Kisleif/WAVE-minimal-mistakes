@@ -4,6 +4,7 @@ last_modified_at: 2023-02-06T23:25:52-05:00
 categories:
   - news
   - results
+  - english
 tags:
   - earthquake
 header:

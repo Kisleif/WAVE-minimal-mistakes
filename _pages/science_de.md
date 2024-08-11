@@ -1,14 +1,14 @@
 ---
 permalink: /science/
-title: Science
-lang: en
+title: Wissenschaft
+lang: de
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
-excerpt: "We're working on exciting research projects that help us create interesting theses and publications. We're committed to exploring new ideas and making progress in our research."
+excerpt: "Wir arbeiten an spannenden Forschungsprojekten, die uns helfen, interessante Thesen und Publikationen zu erstellen. Wir sind bestrebt, neue Ideen zu erforschen und Fortschritte in unserer Forschung zu erzielen."
 toc: true
-toc_label: "Page content"
+toc_label: "Seiteninhalt"
 toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 toc_sticky: true
 read_time: false
@@ -16,7 +16,7 @@ read_time: false
 
 ## Results 
 
-In the following, we present a few results from the initial "Proof of Concept" measurement campaign in 2021, as well as a few more recent results. Keep an eye on this, it will be updated (semi-)regularly!
+Im Folgenden stellen wir einige Ergebnisse der ersten "Proof of Concept"-Messkampagne im Jahr 2021 sowie einige neuere Ergebnisse vor. Behalten Sie diese Seite im Auge, sie wird (halb)regelmäßig aktualisiert!
 
 <figure class="half">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iDAS.jpg" alt="">

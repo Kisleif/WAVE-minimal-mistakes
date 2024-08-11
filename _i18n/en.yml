@@ -1,0 +1,16 @@
+global:
+  tagline: English
+  about: About
+  twitter: Twitter
+  github: GitHub
+  german: Deutsch
+  english: English
+langs:
+  de: Deutsch
+  en: English
+pages:
+  home: Home
+  wave: WAVE
+  science: Science
+  outreach: Outreach
+  team: Team
