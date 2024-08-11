@@ -87,3 +87,18 @@ The internationally unique infrastructure and science network will establish bes
 
 Have we peaked your interest? Would you like to contribute? If you wish to contribute, or get an impression of what we work on, please [contact Prof. Celine Hadziioannou <i class="fa  fa-envelope-square" aria-hidden="true"></i>](mailto:celine.hadziioannou@uni-hamburg.de). 
 
+<ul>
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  <li>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+  </li>
+{% endfor %}
+
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  <li>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+  </li>
+{% endfor %}
+</ul>
