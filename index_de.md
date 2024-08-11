@@ -1,7 +1,7 @@
 ---
 title: "WAVE"
 layout: splash
-lang: ger
+lang: de
 ref: home
 entries_layout: grid
 read_time: false
