@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: de
 ref: wave
 permalink: /wave/
 title: About WAVE

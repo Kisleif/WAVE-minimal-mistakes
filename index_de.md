@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: de
 ref: home
 title: "WAVE"
 layout: splash
