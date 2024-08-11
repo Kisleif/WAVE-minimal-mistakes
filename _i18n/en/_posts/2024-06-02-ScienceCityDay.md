@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Science City Day - Exploring the WAVE Network"
 categories:
   - news

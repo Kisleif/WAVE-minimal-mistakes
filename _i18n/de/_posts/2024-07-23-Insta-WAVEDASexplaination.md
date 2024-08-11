@@ -1,4 +1,5 @@
 ---
+lang: de
 title: "What is WAVE and how is DAS working?"
 categories:
   - media

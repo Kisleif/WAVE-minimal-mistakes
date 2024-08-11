@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "M7.4 Earthquake in China"
 categories:
   - news

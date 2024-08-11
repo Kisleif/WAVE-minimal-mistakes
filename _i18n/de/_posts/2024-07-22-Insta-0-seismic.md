@@ -1,4 +1,5 @@
 ---
+lang: de
 title: "What Do Seismic Waves Have to Do with Concerts?"
 categories:
   - media
