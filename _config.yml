@@ -18,6 +18,7 @@ minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark"
 locale: "en"
 languages: ["en", "de"]
 default_lang: "en"
+parallel_localization: true
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "WAVE"
 title_separator          : "-"
