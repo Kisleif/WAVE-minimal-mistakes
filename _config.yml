@@ -16,8 +16,11 @@ minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale: "en"
-languages: ["en", "de"]
-default_lang: "en"
+languages: # List all supported languages
+  - en
+  - de
+active_lang: en # Set the default or currently active language
+default_lang: en # Set the default language
 lang_vars: ["locale"]
 parallel_localization: true
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
