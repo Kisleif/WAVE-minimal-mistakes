@@ -1,6 +1,8 @@
 ---
 title: "WAVE"
 layout: splash
+lang: en
+ref: home
 entries_layout: grid
 read_time: false
 date: 2016-03-23T11:48:41-04:00
@@ -11,7 +13,7 @@ header:
   actions:
     - label: "Learn more"
       url: /wave/
-    - label: "Activities
+    - label: "Activities"
       url: /posts/
     - label: <i class="fab fa-instagram" aria-hidden="true"></i>
       url: "https://www.instagram.com/wave.hamburg/"
