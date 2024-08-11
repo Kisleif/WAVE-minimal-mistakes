@@ -1,8 +1,8 @@
 ---
-lang: en
+lang: de
 ref: outreach
-permalink: /outreach/
-title: Outreach
+permalink: /wisskomm/
+title: WissKomm
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

@@ -1,25 +1,38 @@
 # main links
 main:
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/wave/
-  - title: "Home"
-    url: https://wave-hamburg.eu
-  - title: "WAVE"
-    url: /wave/
-  - title: "Science"
-    url: /science/
-  - title: "Outreach"
-    url: /outreach/
-  - title: "Team"
-    url: /team/
-  - title: "Blog"
-    url: /posts/
+    languages:
+    - language: "en" links:
+      - title: "Home"
+        url: https://wave-hamburg.eu
+      - title: "WAVE"
+        url: /wave/
+      - title: "Science"
+        url: /science/
+      - title: "Outreach"
+        url: /outreach/
+      - title: "Team"
+        url: /team/
+      - title: "Blog"
+        url: /posts/
+    - language: "de" links:
+      - title: "Home"
+        url: https://wave-hamburg.eu
+      - title: "WAVE"
+        url: /welle/
+      - title: "Wissenschaft"
+        url: /wissenschaft/
+      - title: "WissKomm"
+        url: /wisskomm/
+      - title: "Team"
+        url: /mitglieder/
+      - title: "Blog"
+        url: /beitraege/
 
 sidebar-sample:
   - title: Content
     children:
     - title: "Home"
-      url: https://wave-hamburg-eu
+      url: https://wave-hamburg.eu
     - title: "WAVE"
       url: /wave/
     - title: "Science"
@@ -36,3 +49,4 @@ sidebar-sample:
         url: /tags/
       - title: "Category Archives"
         url: /categories/
+

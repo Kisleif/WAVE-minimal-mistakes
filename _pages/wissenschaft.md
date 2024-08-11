@@ -1,8 +1,8 @@
 ---
-lang: en
+permalink: /wissenschaft/
 ref: science
-permalink: /science/
-title: Science
+lang: de
+title: Wissenschaft
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

@@ -1,7 +1,7 @@
 ---
-lang: en
+lang: de
 ref: team
-permalink: /team/
+permalink: /mitglieder/
 title: "Team"
 classes: wide
 read_time: false
@@ -12,7 +12,7 @@ header:
   actions:
     - label: "Contact us"
       url: "mailto:celine.hadziioannou@uni-hamburg.de"
-excerpt: "Our team combines expertise from various fields, including geophysics, seismology, physics, and engineering, to push the boundaries of seismic and geo-acoustic research."
+excerpt: "Unser Team vereint Fachwissen aus verschiedenen Bereichen, darunter Geophysik, Seismologie, Physik und Technik, um die Grenzen der seismischen und geoakustischen Forschung zu erweitern."
 intro: 
   - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and European XFEL, working together on seismic and geophysical research.'
     

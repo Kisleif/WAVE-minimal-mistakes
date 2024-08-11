@@ -1,15 +1,15 @@
 ---
 lang: de
 ref: wave
-permalink: /wave/
-title: About WAVE
+permalink: /welle/
+title: Über WAVE
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
-excerpt: "WAVE is a seismic sensor network at the Campus Hamburg Bahrenfeld that transforms 19 km of unused telecommunication fibers into 19,000 seismic sensors using distributed acoustic sensing (DAS), expanding research possibilities in geophysics and physics while engaging the community through events and live data streams."
+excerpt: "WAVE ist ein seismisches Sensornetzwerk am Campus Hamburg Bahrenfeld, das 19 km ungenutzte Telekommunikationsfasern in 19.000 seismische Sensoren umwandelt, die mit Hilfe von Distributed Acoustic Sensing (DAS) die Forschungsmöglichkeiten in der Geophysik und Physik erweitern und gleichzeitig die Gemeinschaft durch Veranstaltungen und Live-Datenströme einbeziehen."
 toc: true
-toc_label: "Page content"
+toc_label: "Inhalt"
 toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 toc_sticky: true
 read_time: false
