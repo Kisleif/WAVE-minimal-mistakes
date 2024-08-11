@@ -20,6 +20,8 @@ tags:
 
 ## Livestreams 
 
+
+
 <html>
   <body>
     <!-- Add a placeholder for the Twitch embed -->
@@ -45,18 +47,28 @@ tags:
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left} If you cannot see the embedded video, try going [here <i class="fab fa-twitch" aria-hidden="true"></i>](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
 
+### Upcoming
 
-
-### Upcoming livestreams <i class="fab fa-twitch" aria-hidden="true"></i>
-
-* **10.08.2024** <i class="fa fa-futbol" aria-hidden="true"></i> *Soccer*  match at Volksparkstadion (2 km away from campus), start 20:30 CEST
-* **30.08.2024** <i class="fa fa-music" aria-hidden="true"></i> *Deichkind* on the Trabrennbahn (100m away from campus)
-* **04.09.2024** <i class="fa fa-music" aria-hidden="true"></i> *Justin Timberlake* in the Barclays arena (2 km away from campus)
-* **13.09.2024** <i class="fa fa-music" aria-hidden="true"></i> *Scorpions* Barclays arena (2 km away from campus)
+| When | Type  | What | Where | Stream start | 
+| --- | --- | -------------| -----------------------| ----- | 
+| **30.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Deichkind*  | Trabrennbahn | |
+| **04.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Justin Timberlake* | Barclays arena | |
+| **13.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Scorpions* | Barclays arena  | |
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVEmap_annotations.png" alt="Maps annotation">
 </figure> 
+
+
+### Passed
+
+| When | Type  | What | Where | Link | 
+| --- | --- | -------------| -----------------------| ----- | 
+| **10.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *Soccer*  | Volksparkstadion  |  |
+| **23.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [<i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift) |
+| **24.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [<i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift)  |
+| **05.07.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *EM24 Portgual-Frankreich*  | Volksparkstadion  | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#public-hearing-em24) |
+
 
 ### Waterfall? What am I looking at??
 
@@ -145,7 +157,7 @@ We expected that the fans in the stadion will celebrate and jump around when a g
 On Saturday, June 1, 2024, from 11:00 AM to 7:00 PM, the WAVE team participated in Science City Day at the DESY campus. Visitors explored the fascinating world of our fiber-optic seismic network, discovering where the fiber was buried and learning how it works. Attendees had the chance to generate their own seismic waves and find out what happens when you jump around on a bouncy castle. It was a day filled with hands-on fun and learning! 
 
 
-For more details about the event, click [here <i class="fa fa-external-link" aria-hidden="true"></i>]( https://www.sciencecityday.de/programm/wave-field-huepfburg/) or have a look to our [blog post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}news/ScienceCityDay/). 
+For more details about the event, click [here <i class="fa fa-external-link" aria-hidden="true"></i>]( https://www.sciencecityday.de/programm/wave-field-huepfburg/) or have a look to our [blog post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}/news/ScienceCityDay/). 
 
 ![Science City Day]({{ site.url }}{{ site.baseurl }}/assets/images/SCHWebHeader.jpg)
 {: .image-right}
